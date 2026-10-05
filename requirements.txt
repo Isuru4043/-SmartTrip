@@ -1,0 +1,12 @@
+django
+langgraph
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+requests
+tavily-python
+langchain-tavily
+psycopg[binary]
+langgraph-checkpoint-postgres
+dj-database-url
